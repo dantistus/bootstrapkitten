@@ -1,13 +1,13 @@
 {
-  "name": "flexboxfroggy",
+  "name": "bootstrapkitten",
   "version": "1.0.0",
-  "description": "A game for learning CSS flexbox",
+  "description": "A game for learning Bootstrap 4",
   "main": "game.js",
   "dependencies": {
     "animate.css": "^3.4.0",
     "jquery": "^3.3.1"
   },
   "devDependencies": {},
-  "author": "Thomas Park",
-  "license": "MIT"
+  "author": "Maksym Shcherban",
+  "license": "GTFO"
 }
