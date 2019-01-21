@@ -1,4 +1,4 @@
-Flexbox Froggy
+Bootstrap Kitten
 =======
 
 Flexbox Froggy is a game for learning CSS flexbox. Check it out at [flexboxfroggy.com](http://flexboxfroggy.com).
