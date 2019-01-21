@@ -526,7 +526,7 @@ button:not(.disabled):hover {
 }
 
 .frog.green .bg {
-  background-image: url("../images/frog-green.svg");
+  background-image: url("../images/kitten.svg");
 }
 
 .frog.green.cb-friendly .bg {
